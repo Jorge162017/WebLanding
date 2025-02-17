@@ -4,18 +4,14 @@
     "paragraph": "El futuro es digital, y nosotros lo hacemos realidad. Desarrollamos software, aplicaciones web y chatbots inteligentes con integración avanzada de datos. Convierte la innovación en tu ventaja competitiva con inteligencia artificial y análisis de datos avanzados."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Somos un equipo apasionado por la tecnología, expertos en desarrollo de software, inteligencia artificial y análisis de datos. Ayudamos a empresas a escalar con herramientas digitales eficientes y personalizadas.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Implementamos herramientas analíticas avanzadas para mejorar la toma de decisiones.",
+      "Asesoramos en estrategias de automatización y optimización de procesos."
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Desarrollamos soluciones a medida.",
+      "Integración de inteligencia artificial en procesos empresariales."
     ]
   },
   "Gallery": [
@@ -67,34 +63,34 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-laptop",
+      "name": "E-commerce Personalizados",
+      "text": "Creamos aplicaciones web y plataformas personalizadas con tecnología moderna y escalable."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-shopping-cart",
+      "name": "E-commerce Personalizados",
+      "text": "Diseñamos tiendas en línea optimizadas para aumentar conversiones y mejorar la experiencia del usuario."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-comments",
+      "name": "Chatbots con IA",
+      "text": "Automatizamos la atención al cliente con chatbots inteligentes que mejoran la interacción y eficiencia."
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-bar-chart",
+      "name": "Análisis de Datos",
+      "text": "Extrae información clave sobre el rendimiento de tu negocio con herramientas avanzadas de análisis."
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-search",
+      "name": "SEO y Marketing Digital",
+      "text": "Mejoramos la visibilidad de tu negocio con estrategias de posicionamiento y marketing digital."
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-mobile",
+      "name": "Aplicaciones Móviles",
+      "text": "Desarrollamos apps móviles y progresivas para ofrecer experiencias digitales completas y accesibles."
     }
   ],
   "Testimonials": [
@@ -171,12 +167,12 @@
       "text": "Implementación de Google Analytics y Google Tag Manager para un análisis avanzado."
     },
     {
-      "icon": "fa fa-group",
+      "icon": "fa fa-desktop",
       "title": "Desarrollo Web y Apps",
       "text": "Creamos soluciones personalizadas para cada tipo de negocio."
     },
     {
-      "icon": "fa fa-magic",
+      "icon": "fa fa-shopping-cart",
       "title": "E-commerce",
       "text": "Tiendas online optimizadas para maximizar ventas y conversiones."
     }
